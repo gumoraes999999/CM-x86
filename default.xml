@@ -1,10 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
+  <remote  name="cyanogen"
+           fetch="https://github.com/CyanogenMod/"
   <remote  name="korg"
-           fetch="git://android.git.kernel.org/"
+           fetch="https://android.googlesource.com/"
            review="review.source.android.com" />
   <remote  name="x86"
-           fetch="git://218.211.38.204/android-x86/" />
+           fetch="http://scm.osdn.net/gitroot/android-x86/" />
   <default revision="android-x86-v0.9"
            remote="korg" />
 
