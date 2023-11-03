@@ -1,2 +1,1 @@
-# CM-x86
-An cyanogenmod live cd that you can install on pc
+This is the CyanogenMod-x86 3.6.8.1 source code.
